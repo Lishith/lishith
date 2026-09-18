@@ -1,3 +1,3 @@
 print("vvce")
-print("student")
+print("student1, student1")
 print(" CS department")
